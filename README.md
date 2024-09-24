@@ -30,4 +30,4 @@ Este gráfico ubica en un ponto cada ticket y su costo, se puede ver claramente 
 
 ## Se adjunto el archivo de RStudio con los análisis
 
-
+[Caso_practico_p_entregar.zip](https://github.com/user-attachments/files/17108084/Caso_practico_p_entregar.zip)
